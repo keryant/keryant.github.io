@@ -1,6 +1,6 @@
 body {
     background: rgb(1, 17, 65);
-    color: rgb(26, 17, 157);
+    color: git add rgb(207, 207, 247);
     padding: 10px;
     font-family: arial;
 }
@@ -11,7 +11,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(129, 119, 160);
+    background: rgb(32, 2, 120);
    margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -32,7 +32,7 @@ h1 {
 }
 a {
     text-decoration: none;
-    color: #3004f1;
+    color: #1c1c1e;
 }
 
 /* main container area beneath menu */
@@ -54,7 +54,7 @@ main {
 
 /* portfolio styles */
 #interests {
-    border: 4px rgb(26, 71, 194) ridge;
+    border: 4px rgb(227, 229, 235) ridge;
     padding: 8px;
 }
 h2, h3 {

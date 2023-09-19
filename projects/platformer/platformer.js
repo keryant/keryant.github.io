@@ -58,7 +58,7 @@ $(function () {
     createPlatform(270, 350, 75, 32)
     createPlatform(250, 550, 65, 42)
     createPlatform(340, 450, 445, 32)
-    createPlatform(270, 359, 255, 52)
+    createPlatform(270, 359, 255, 53)
 
 
 
